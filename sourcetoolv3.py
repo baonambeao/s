@@ -25,7 +25,7 @@ def banner():
 
 banner()
 print("\033[1;31m!!KHI NHẬP WEBSITE LƯU Í PHẢI NHẬP https://")
-a = int(input("))
+a = int(input(""))
 host = input(Colorate.Horizontal(Colors.purple_to_blue, "[</>] URL ATTACK WEBSITE: "))
 thread = int(input(Colorate.Horizontal(Colors.purple_to_blue, "[</>] ENTER THREAD ATTACK WBSITE (1000/150000): ")))
 
